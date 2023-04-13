@@ -5,6 +5,7 @@
         "name": "Mark Webber ",
         "action": "reacted to your recent post",
         "post": " My first tournament today!",
+        "point": " ",
         "time": "1m ago"
     },
     {
@@ -12,6 +13,7 @@
         "imgsrc": "/static/images/avatar-angela-gray.webp",
         "name": "Angela Gray ",
         "action": "followed you",
+        "point": " ",
         "time": "5m ago"
     },
     {
@@ -20,6 +22,7 @@
         "name": "Jacob Thompson ",
         "action": "has joined your group ",
         "group": "Chess Club",
+        "point": " ",
         "time": "1 day ago"
     },
     {

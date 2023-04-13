@@ -49,11 +49,9 @@
     color: var(--grayish-blue);
 }
 .point{
-    width: 10px;
-    height: 10px;
-    padding: 10px auto;
-    background-color: var(--red);
-    border-radius: 50%;
+    
+    background-color:  var(--red) ;
+    border-radius: 5px;
 }
 .group{
     color: var(--blue);
@@ -61,7 +59,8 @@
 }
 .message{
     color: var(--dark-grayish-blue);
-    border: 1px solid var(--dark-grayish-blue);
+    /*
+    border: 1px solid var(--dark-grayish-blue); 
     border-radius: 5px;
-
+    */
 }

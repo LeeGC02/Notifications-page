@@ -7,7 +7,7 @@ export const Head = () => {
         <h3 className='notifications-container-h3'>
           Notifications <span>3</span>
         </h3>
-        <span className='mark'>Mark all as read</span>
+        <a className='mark'>Mark all as read</a>
     </div>
   )
 }

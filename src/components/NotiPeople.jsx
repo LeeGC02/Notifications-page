@@ -12,7 +12,7 @@ export const NotiPeople = (props) => {
         <span className='group'>{people.group}</span>
         <span className='point'>{people.point}</span><br></br>
         <span className='time'>{people.time}</span><br></br>
-        <div className='message'><span>{people.message}</span></div></p>
+        <div  className='message'><span>{people.message}</span></div></p>
         
     </div>
   )
