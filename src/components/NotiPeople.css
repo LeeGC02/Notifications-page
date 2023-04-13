@@ -1,0 +1,67 @@
+:root{ 
+    /* Colors
+    ### Primary*/
+    --red: hsl(1, 90%, 64%);
+    --blue: hsl(219, 85%, 26%);
+    /*### Neutral*/
+    --white: hsl(0, 0%, 100%);
+    --very-light-grayish-blue: hsl(210, 60%, 98%);
+    --light-grayish-blue-1: hsl(211, 68%, 94%);
+    --light-grayish-blue-2: hsl(205, 33%, 90%);
+    --grayish-blue: hsl(219, 14%, 63%);
+    --dark-grayish-blue: hsl(219, 12%, 42%);
+    --very-dark-blue: hsl(224, 21%, 14%);
+    /*## Typography
+    ### Body Copy*/
+    --Font-size-paragraph: 16px;
+}
+.notipeople-container{
+    display: flex;
+    flex-direction: column;
+}
+.people-container{
+    margin: 5px;
+    display: flex;
+    align-items: center;
+}
+.people-container{
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color: var(--very-light-grayish-blue);
+}
+.people-container img{
+    width: 45px;
+    height: auto;
+    padding: 10px;
+}
+.name{
+    font-weight: 800;
+}
+.action{
+    color: var(--grayish-blue);
+}
+.post{
+    color: var(--dark-grayish-blue);
+    font-weight: 800;
+}
+.time{
+    color: var(--grayish-blue);
+}
+.point{
+    width: 10px;
+    height: 10px;
+    padding: 10px auto;
+    background-color: var(--red);
+    border-radius: 50%;
+}
+.group{
+    color: var(--blue);
+    font-weight: 800;
+}
+.message{
+    color: var(--dark-grayish-blue);
+    border: 1px solid var(--dark-grayish-blue);
+    border-radius: 5px;
+
+}
